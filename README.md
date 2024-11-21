@@ -4,15 +4,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
-
-![Desktop](./screenshot/desktop.jpg)
-![Mobile](./screenshot/mobile.jpg)
-
 ### Links
 
 - [Solution](https://github.com/Lokesh8055/frontendmentor.io/tree/main/qr-code-component)
 - [LiveSite](https://qr-code-component-lp.netlify.app/)
+
+### Screenshot
+
+![Desktop](./screenshot/desktop.jpg)
+![Mobile](./screenshot/mobile.jpg)
 
 ## My process
 
